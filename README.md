@@ -7,7 +7,8 @@ A little of this and a little of that.
 
 > AWS Alfred Workflow - download and import Alfred to open your webbrowser to AWS Resources directly.
 
-### Instructions: Type: `aws <resource>`  (i.e. `aws ec2`) to go to AWS EC2 in your webbrowser.
+### Instructions:
+Type: `aws <resource>`  (i.e. `aws ec2`) to go to AWS EC2 in your webbrowser.
 
 ### Requirements:
 1. Need Alfred 3+ with Powerpack
