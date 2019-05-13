@@ -16,6 +16,8 @@ A little of this and a little of that.
 
 ---
 
+# IDE
+
 ## Dev Environment Setup
 
 > Sanitized Developer Setup for Mac.

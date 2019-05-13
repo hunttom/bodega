@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 
 
 # Inspration was based on the following:
