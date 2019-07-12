@@ -5,7 +5,7 @@
 #PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
 
 # Hosted Zone ID e.g. BJBK35SKMM9OE
-ZONEID="qwerty"
+ZONEID="HOSTEDZONE"
 
 # The CNAME you want to update e.g. hello.example.com
 RECORDSET=""

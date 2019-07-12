@@ -22,9 +22,15 @@ A little of this and a little of that.
 
 > Sanitized Developer Setup for Mac.
 
+# AWS
+
+1. Dynamic DNS script to update Route53 to your router. I use this script to update Route53 to point my A record to my VPN Server.
+
+
 ### Instructions:
 1. Download script, edit to your liking and needs.
 2. Type `bash dev_env.sh` when in the proper directory.
+3. 
 
 ### Requirements:
 1. Make sure you are running High Sierra+
